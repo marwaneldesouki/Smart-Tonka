@@ -19,19 +19,20 @@ Upon verification of the suitable parking space, the vehicle initiates a left ro
 ![image](https://github.com/marwaneldesouki/Smart-Tonka/assets/37198610/d551474d-0092-476e-85c0-c3b276e2cd08)
 
 ## Components
-Arduino UNO
-ultrasonic x4
-L298 H-bridge
-Bluetooth module
-Lithium battery x4
-DC motors x4
-Wheel x4
-
+<ul>
+<li>Arduino UNO.</li>
+<li>ultrasonic x4.</li>
+<li>L298 H-bridge.</li>
+<li>Bluetooth module.</li>
+<li>Lithium battery x4.</li>
+<li>DC motors x4.</li>
+<li>Wheel x4.</li>
+</ul>
+  
 ## Circuit Diagram
 ![image](https://github.com/marwaneldesouki/Smart-Tonka/assets/37198610/dc446820-3de4-4726-8c1b-7033c69f28d3)
 
 ## Mobile Application
-Parking mode:to initiate the automated parkingRightLeftForwardBackward
 ![image](https://github.com/marwaneldesouki/Smart-Tonka/assets/37198610/144fc236-dd12-416b-a1e2-96b8533a4581)
 
 ## Conclusion
